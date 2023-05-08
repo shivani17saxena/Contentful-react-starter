@@ -52,6 +52,10 @@ button {
   border-color: var(--blue-500);
 }
 
+button.button-subscribe {
+  margin-left: 16%;
+}
+
 button:hover {
   background: var(--blue-600);
   border-color: var(--blue-600);
@@ -117,6 +121,10 @@ h3 {
   font-size: var(--font-size-2xl);
 }
 
+h3.h3-subscribe {
+  display: inline-block;
+}
+
 h4 {
   font-size: var(--font-size-xl);
 }
@@ -139,4 +147,8 @@ small {
   font-weight: 500;
   line-height: 1.1;
   display: block;
+}
+
+section.section-subscribe {
+  text-align: center;
 }

@@ -95,6 +95,10 @@ const Content = () => {
         </div> 
 
       </section>
+      <section className="section-subscribe">
+        <h3 className="h3-subscribe">Subcribe to get upto 50% Off on Skin Care Products</h3>
+        <button className="button-subscribe">Subscribe</button>
+      </section>
     </>
   )
 }
